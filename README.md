@@ -19,6 +19,15 @@ I'm currently honing my skills in:
 
 ---
 
+<p align="left">
+<a href="https://github.com/wildanfauzanr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wildanfauzanr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wildanfauzanr&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+---
+
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/wildanfauzanramdana/) 
 - [Email](mailto:wildanfauzan2027gmail.com)
