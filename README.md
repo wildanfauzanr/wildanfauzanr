@@ -1,5 +1,30 @@
 ## Hi there 👋
 
+# 👋 Hello, I'm Wildan Fauzan Ramdana!
+
+I'm an **IT student** with a passion for **web development**. I enjoy creating and exploring user-friendly web experiences using the fundamentals of **HTML**, **CSS**, and **JavaScript**. 
+
+---
+
+## 🔧 Technologies & Tools
+- **Languages**: HTML, CSS, JavaScript
+- **Learning**: Node.js, REST APIs
+- **Tools**: Git, GitHub, Visual Studio Code, Figma
+
+---
+
+## 🌱 What I'm Learning
+I'm currently honing my skills in:
+- Building responsive websites
+
+---
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/wildanfauzanramdana/) 
+- [Email](mailto:wildanfauzan2027gmail.com)
+
+---
+
 <!--
 **wildanfauzanr/wildanfauzanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
